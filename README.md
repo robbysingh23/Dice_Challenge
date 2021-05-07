@@ -1,1 +1,1 @@
-# Dice_challenge
+# Dom manipulation challenge using primarily Javascript.
